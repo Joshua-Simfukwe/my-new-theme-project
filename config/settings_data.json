@@ -121,20 +121,6 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "3cf54552-a0a6-420b-b648-17af46b6c821": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
-              "text_alignment": "center",
-              "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/all"
-            }
-          }
-        },
-        "block_order": [
-          "3cf54552-a0a6-420b-b648-17af46b6c821"
-        ],
         "settings": {
         }
       },
